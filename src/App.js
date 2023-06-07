@@ -6,13 +6,10 @@ import {Cart} from './pages/cart/Cart';
 import Shop from './pages/shop/Shop';
 import { ShopContextProvider } from './context/ShopContext';
 
-
 function App() {
 
- 
   return (
     <div className="App">
-
   
     <ShopContextProvider>
     <Router>
