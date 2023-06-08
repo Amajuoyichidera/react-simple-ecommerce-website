@@ -6,9 +6,6 @@ import iphone12 from './assets/iphone 12.jpg';
 import iphone12pro from './assets/iphone 12 pro.jpg';
 import iphone13pro from './assets/iphone 13 pro.jpg';
 import headphone from './assets/headphone.jpg';
-
-
-
  
 export const PRODUCTS = [
     {
